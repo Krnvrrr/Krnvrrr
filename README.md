@@ -1,5 +1,6 @@
 ### Hi there 👋
-myself karanveer
+myself karanveer singh. I am a 3rd year undergraduate BTech student at Indian Institute of technology, Roorkee.
+my area of interest is Full stack Web development and i am looking for an internship in the same for improving my skill set and learn new things.
 
 <!--
 **Krnvrrr/Krnvrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
