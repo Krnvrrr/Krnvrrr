@@ -1,5 +1,5 @@
 ### Hi there 👋
-myself karanveer singh. I am a 3rd year undergraduate BTech student at Indian Institute of technology, Roorkee.
+Myself karanveer singh. I am a 3rd year undergraduate BTech student at Indian Institute of technology, Roorkee.
 my area of interest is Full stack Web development and i am looking for an internship in the same for improving my skill set and learn new things.
 
 <!--
