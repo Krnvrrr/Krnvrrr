@@ -1,7 +1,11 @@
 ### Hi there 👋
-Myself karanveer singh. I am a 3rd year undergraduate BTech student in Chemical engineering at Indian Institute of technology, Roorkee.
-my area of interest is Full stack Web development and Data-Structure and Algorithm and currently, I currently am learning data science. 🦖
+Myself karanveer singh. I am a 4th year undergraduate BTech student in Chemical engineering at Indian Institute of technology, Roorkee.
+my area of interest is Full stack Web development, Data-Structure and Algorithm and DBMS.
+I am proficient in various computer languages such as JavaScript, Python, and C++ and possess a deep understanding of  React.js, HTML, CSS, Bootstrap, Tailwind CSS, Node.js, Express.js, Flask , MySql, MongoDB.
+I am eager to contribute my technical expertise and creative problem-solving abilities to dynamic projects that push boundaries and deliver impactful solutions.
+Let's connect to explore opportunities and discuss how we can collaborate to drive innovation in the field of Full Stack software Development.
 
+Contact me at karanveer_s@ch.iitr.ac.in
 <!--
 **Krnvrrr/Krnvrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
